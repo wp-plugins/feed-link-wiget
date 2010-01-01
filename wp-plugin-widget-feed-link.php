@@ -4,7 +4,7 @@
 
 Plugin Name: Feed Link Wiget
 Description: Enables you to add your feed links to a widget area.
-Plugin URL: http://dennishoppe.de/wordpress-plugins/feed-link-widget
+Plugin URI: http://dennishoppe.de/wordpress-plugins/feed-link-widget
 Author: Dennis Hoppe
 Author URI: http://dennishoppe.de
 Version: 1.0
