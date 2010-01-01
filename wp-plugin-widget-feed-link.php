@@ -21,7 +21,7 @@ Class wp_plugin_widget_feed_link extends WP_Widget {
     $this->WP_Widget('feedlinker', 'Feed Link Widget');
     
     // Read base
-    $this->base_url = get_option('home').'/'.Str_Replace("\\", '/', SubStr(  RealPath(DirName(__FILE__)), Strlen(ABSPATH) ));
+    $this->base_url = get_option('siteurl').'/'.Str_Replace("\\", '/', SubStr(RealPath(DirName(__FILE__)), Strlen(ABSPATH)));
     
     // Get ready to translate
     $this->Load_TextDomain();
