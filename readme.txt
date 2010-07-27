@@ -1,8 +1,13 @@
 === Plugin ===
+Contributors: dhoppe
+Tags:
+Requires at least: 10
+Tested up to: 10
+Stable tag: 0
 
 == Description ==
 
-[![Image](http://karpstein.net/images/img_example.jpg)](http://google.de/)
+Link: <a href="http://google.org/"><img src="http://karpstein.net/images/img_example.jpg" alt="Image"></a>
 
 == Installation ==
 
